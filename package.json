@@ -1,0 +1,23 @@
+{
+  "name": "study2-ejs",
+  "version": "1.0.0",
+  "description": "Hay Hello",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreenNature/ejs-study-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GreenNature/ejs-study-1/issues"
+  },
+  "homepage": "https://github.com/GreenNature/ejs-study-1#readme",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0"
+  }
+}
